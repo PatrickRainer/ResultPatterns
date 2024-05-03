@@ -7,6 +7,8 @@
         <RootNamespace>Results</RootNamespace>
         <SignAssembly>true</SignAssembly>
         <PublicSign>true</PublicSign>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <AssemblyOriginatorKeyFile>PrDev.Results.Key.snk</AssemblyOriginatorKeyFile>
     </PropertyGroup>
 
 </Project>
